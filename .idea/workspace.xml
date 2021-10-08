@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d530990-aa30-4e5f-a845-3802313c4b8b" name="Default Changelist" comment="第一次练习" />
+    <list default="true" id="6d530990-aa30-4e5f-a845-3802313c4b8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,8 @@
       <workItem from="1632964403127" duration="1146000" />
       <workItem from="1633654714720" duration="683000" />
       <workItem from="1633658089685" duration="470000" />
+      <workItem from="1633658573379" duration="293000" />
+      <workItem from="1633659216488" duration="390000" />
     </task>
     <task id="LOCAL-00001" summary="azhesad">
       <created>1632964837749</created>
@@ -95,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633658430094</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第一次练习">
+      <created>1633658587750</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633658587750</updated>
+    </task>
+    <task id="LOCAL-00008" summary="大学课程">
+      <created>1633659469466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633659469466</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +136,7 @@
     <MESSAGE value="第一次作业" />
     <MESSAGE value="azhesafdasgdhjk" />
     <MESSAGE value="第一次练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次练习" />
+    <MESSAGE value="大学课程" />
+    <option name="LAST_COMMIT_MESSAGE" value="大学课程" />
   </component>
 </project>
