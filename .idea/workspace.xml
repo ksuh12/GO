@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d530990-aa30-4e5f-a845-3802313c4b8b" name="Default Changelist" comment="azhesafdasgdhjk" />
+    <list default="true" id="6d530990-aa30-4e5f-a845-3802313c4b8b" name="Default Changelist" comment="第一次练习" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,15 +38,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633657593757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一次练习">
+      <created>1633657771011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633657771011</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +111,7 @@
     <MESSAGE value="azhesad" />
     <MESSAGE value="第一次作业" />
     <MESSAGE value="azhesafdasgdhjk" />
-    <option name="LAST_COMMIT_MESSAGE" value="azhesafdasgdhjk" />
+    <MESSAGE value="第一次练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次练习" />
   </component>
 </project>
